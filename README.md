@@ -1,4 +1,12 @@
-1. Towards End-to-End Lane Detection an Instance Segmentation Approach -Neven等-2018 : [Paper-for-LaneDetection/Towards End-to-End Lane Detection an Instance Segmentation Approach -Neven 等 - 2018 - .pdf at main · galaxy-vagrant/Paper-for-LaneDetection (github.com)](https://github.com/galaxy-vagrant/Paper-for-LaneDetection/blob/main/Towards End-to-End Lane Detection an Instance Segmentation Approach -Neven 等 - 2018 - .pdf)
-2. Xu等-2023-PIDNet A Real-time Semantic Segmentation Network .pdf :[Paper-for-LaneDetection/Xu 等 - 2023 - PIDNet A Real-time Semantic Segmentation Network .pdf at main · galaxy-vagrant/Paper-for-LaneDetection (github.com)](https://github.com/galaxy-vagrant/Paper-for-LaneDetection/blob/main/Xu 等 - 2023 - PIDNet A Real-time Semantic Segmentation Network .pdf)
-3. Yu 等- 2021 - BiSeNet V2 Bilateral Network with Guided Aggregation for Real-Time Semantic Segmentation.pdf :[Paper-for-LaneDetection/Yu 等 - 2021 - BiSeNet V2 Bilateral Network with Guided Aggregation for Real-Time Semantic Segmentation.pdf at main · galaxy-vagrant/Paper-for-LaneDetection (github.com)](https://github.com/galaxy-vagrant/Paper-for-LaneDetection/blob/main/Yu 等 - 2021 - BiSeNet V2 Bilateral Network with Guided Aggregation for Real-Time Semantic Segmentation.pdf)
+1. Towards End-to-End Lane Detection an Instance Segmentation Approach -Neven等-2018 
+
+   [Paper-for-LaneDetection/Towards End-to-End Lane Detection an Instance Segmentation Approach -Neven 等 - 2018 - .pdf at main · galaxy-vagrant/Paper-for-LaneDetection (github.com)](https://github.com/galaxy-vagrant/Paper-for-LaneDetection/blob/main/Towards End-to-End Lane Detection an Instance Segmentation Approach -Neven 等 - 2018 - .pdf)
+
+2. Xu等-2023-PIDNet A Real-time Semantic Segmentation Network .pdf 
+
+   [Paper-for-LaneDetection/Xu 等 - 2023 - PIDNet A Real-time Semantic Segmentation Network .pdf at main · galaxy-vagrant/Paper-for-LaneDetection (github.com)](https://github.com/galaxy-vagrant/Paper-for-LaneDetection/blob/main/Xu 等 - 2023 - PIDNet A Real-time Semantic Segmentation Network .pdf)
+
+3. Yu 等- 2021 - BiSeNet V2 Bilateral Network with Guided Aggregation for Real-Time Semantic Segmentation.pdf 
+
+   [Paper-for-LaneDetection/Yu 等 - 2021 - BiSeNet V2 Bilateral Network with Guided Aggregation for Real-Time Semantic Segmentation.pdf at main · galaxy-vagrant/Paper-for-LaneDetection (github.com)](https://github.com/galaxy-vagrant/Paper-for-LaneDetection/blob/main/Yu 等 - 2021 - BiSeNet V2 Bilateral Network with Guided Aggregation for Real-Time Semantic Segmentation.pdf)
 
